@@ -1,2 +1,2 @@
 # creative-team tailwind starter kit - Nuxtjs
-https://www.creative-tim.com/learning-lab/tailwind-starter-kit/
+UI template from - https://github.com/creativetimofficial/tailwind-starter-kit?ref=creativetim-tailwind-download
